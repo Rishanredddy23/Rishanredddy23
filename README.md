@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Rishan (Little Techno)
 
-<!--
-**Rishanredddy23/Rishanredddy23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 15 y/o developer building AI + Arduino tools
 
-Here are some ideas to get you started:
+## 🔥 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ⚡ **FluxIDE** – AI-powered Arduino IDE
+  👉 https://github.com/Rishanredddy23/FluxIDE/releases/latest
+
+* 📡 **ScopeX** – Arduino Oscilloscope
+
+## 🛠 Tech
+
+* Arduino / Embedded
+* JavaScript / Electron
+* Python (AI)
+
+## 🎯 Focus
+
+Building real-world tools, not just demos
+
+---
+
+⭐ Follow for more projects
+
+
