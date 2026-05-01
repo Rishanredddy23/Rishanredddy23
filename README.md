@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rishan (Little Techno)
+# 👋 Hi, This is Maram Reddy Rishan Reddy
 
 🚀 15 y/o developer building AI + Arduino tools
 
