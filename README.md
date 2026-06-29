@@ -1,26 +1,26 @@
-# 👋 Hi, This is Maram Reddy Rishan Reddy
+# Hi, This is Maram Reddy Rishan Reddy
 
-🚀 15 y/o developer building AI + Arduino tools
+ 15 y/o developer building AI + Arduino tools
 
-## 🔥 Projects
+##  Projects
 
-* ⚡ **FluxIDE** – AI-powered Arduino IDE
-  👉 https://github.com/Rishanredddy23/FluxIDE/releases/latest
+*  **FluxIDE** – AI-powered Arduino IDE
+   https://github.com/Rishanredddy23/FluxIDE/releases/latest
 
-* 📡 **ScopeX** – Arduino Oscilloscope
+*  **ScopeX** – Arduino Oscilloscope
 
-## 🛠 Tech
+##  Tech
 
 * Arduino / Embedded
 * JavaScript / Electron
 * Python (AI)
 
-## 🎯 Focus
+##  Focus
 
 Building real-world tools, not just demos
 
 ---
 
-⭐ Follow for more projects
+ Follow for more projects
 
 
