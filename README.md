@@ -9,6 +9,8 @@
 
 *  **ScopeX** – Arduino Oscilloscope
 
+*  Obsidian - An AI agentic studio featuring multi-agent workflows, visual nodes, built-in IDE, local LLM support (Ollama/Llama), cloud AI models via APIs, and intelligent automation.
+
 ##  Tech
 
 * Arduino / Embedded
